@@ -1,3 +1,4 @@
 {
-    "workbench.colorTheme": "Cozy Christmas"
+    "workbench.colorTheme": "Cozy Christmas",
+    "pylint.enabled": false
 }

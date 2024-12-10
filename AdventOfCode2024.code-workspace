@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"workbench.colorTheme": "Cozy Christmas",
+		"window.autoDetectColorScheme": true,
+		"workbench.preferredDarkColorTheme": "Cozy Christmas",
+		"workbench.preferredLightColorTheme": "GitHub Light Default",
+		"pylint.enabled": false,
+	}
+}
